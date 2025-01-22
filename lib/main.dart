@@ -24,3 +24,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+// TODO: Implement user profile pictures
+// TODO: Add push notifications
+// TODO: Implement dark mode
+// TODO: Add offline support
