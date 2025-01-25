@@ -405,3 +405,6 @@ class FirestoreService {
     }
   }
 }
+// Performance optimization: Cache user documents
+// Batch operations for better efficiency
+// Error handling improvements needed
