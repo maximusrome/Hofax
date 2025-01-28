@@ -172,3 +172,6 @@ class Rating {
         'overallRating: ${overallRating.toStringAsFixed(1)})';
   }
 }
+// Rating validation improvements
+// Better error messages for users
+// Input sanitization needed
