@@ -81,3 +81,6 @@ class AuthService {
     }
   }
 }
+// Authentication flow improvements
+// Better error handling for login/register
+// Password strength validation
