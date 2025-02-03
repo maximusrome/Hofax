@@ -419,3 +419,6 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 }
+// UI improvements needed
+// Better form validation
+// Loading states
