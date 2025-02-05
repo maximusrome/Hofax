@@ -49,3 +49,6 @@ class _MainScreenState extends State<MainScreen> {
     );
   }
 }
+// Navigation improvements
+// Better state management
+// Tab persistence
