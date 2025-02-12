@@ -81,3 +81,6 @@ class _FeedTabState extends State<FeedTab> {
     );
   }
 }
+// Feed performance optimization
+// Better loading states
+// Infinite scroll implementation
