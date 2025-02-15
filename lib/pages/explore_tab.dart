@@ -259,3 +259,6 @@ class _ExploreTabState extends State<ExploreTab> {
     );
   }
 }
+// User discovery improvements
+// Better search functionality
+// Profile optimization
