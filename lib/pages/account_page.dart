@@ -291,3 +291,6 @@ class AccountPage extends StatelessWidget {
     );
   }
 }
+// Account management improvements
+// Better settings organization
+// Privacy controls
