@@ -38,3 +38,6 @@ class AppTextStyles {
   );
   // Add more styles
 }
+// Theme improvements
+// Dark mode support
+// Better color scheme
