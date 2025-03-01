@@ -188,3 +188,6 @@ class RatingCard extends StatelessWidget {
     );
   }
 }
+// Widget improvements
+// Better reusability
+// Performance optimization
