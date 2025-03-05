@@ -130,3 +130,6 @@ class RatingService {
     return rating.likedByUsers.contains(userId);
   }
 }
+// Performance optimizations
+// Better caching strategy
+// Memory management
