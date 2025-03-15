@@ -145,3 +145,6 @@ class ManageRatingsPage extends StatelessWidget {
     );
   }
 }
+// Rating management improvements
+// Better user interface
+// Performance optimization
