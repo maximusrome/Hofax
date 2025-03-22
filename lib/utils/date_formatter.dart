@@ -13,3 +13,6 @@ class DateFormatter {
     return '${date.month}/${date.day}/${date.year}';
   }
 }
+// Utility improvements
+// Better date formatting
+// Authentication helpers
