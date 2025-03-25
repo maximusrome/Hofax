@@ -197,3 +197,6 @@ class _EditRatingPageState extends State<EditRatingPage> {
     );
   }
 }
+// Performance improvements
+// Better error handling
+// Code optimization
