@@ -77,3 +77,6 @@ class InfoPage extends StatelessWidget {
     );
   }
 }
+// Info page improvements
+// Better documentation
+// Help system
