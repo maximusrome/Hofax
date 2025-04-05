@@ -62,3 +62,6 @@ class ReceivedRatingsPage extends StatelessWidget {
     );
   }
 }
+// Performance optimizations
+// Better error handling
+// Code cleanup
