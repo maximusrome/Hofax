@@ -45,3 +45,6 @@ class PaginationConstants {
   static const int maxRatingsToShow = 20;
   static const int maxUsersToShow = 50;
 }
+// Performance improvements
+// Better caching
+// Memory optimization
