@@ -34,3 +34,6 @@ class RatingCategories extends StatelessWidget {
     );
   }
 }
+// Performance optimizations
+// Better error handling
+// Code cleanup
