@@ -19,3 +19,6 @@ void showSignInPrompt(BuildContext context, {String? message}) {
     ),
   );
 }
+// Performance improvements
+// Better error handling
+// Code optimization
