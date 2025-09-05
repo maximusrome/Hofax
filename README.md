@@ -62,10 +62,6 @@ lib/
 3. Configure Firebase project and add configuration files
 4. Run the app: `flutter run`
 
-## Screenshots
-
-[Add screenshots of your app here]
-
 ## Future Enhancements
 
 - Smart notifications for meaningful interactions
@@ -73,6 +69,3 @@ lib/
 - Personal growth analytics and insights
 - Enhanced privacy and security controls
 - Cross-platform web support for broader accessibility
-// Final optimizations
-// Performance improvements
-// Production ready
