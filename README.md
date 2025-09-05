@@ -5,7 +5,7 @@ A Flutter-based mobile application that empowers users to provide constructive f
 ## Features
 
 - **Comprehensive Feedback System**: Provide thoughtful feedback across 7 key personal development areas:
-  - Emotional Intelligence
+  - Emotional
   - Values & Character
   - Intellectual Curiosity
   - Social Compatibility
